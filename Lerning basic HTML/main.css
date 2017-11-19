@@ -4,20 +4,21 @@
 #div2{
 }
 
-body{
-  background-color: blue;
+body{background-color: white;
 }
 
-h1{
-  color: white;
+h1{font-size:80px;color:#191970;
+  background-image: url("source.gif");
+  background-size: 1000px 800px;
+  background-repeat: no-repeat;
 }
 
-h5{
-  color: yellow;
+h3{
+  color: black;
 }
 
 #div3{
-  margin-top: -100px;
+  margin-top: -200px;
   float: right;
   position: absolute;right:0;top:50;
 }
