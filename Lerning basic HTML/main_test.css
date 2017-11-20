@@ -7,20 +7,20 @@
 body{background-color: white;
 }
 
-#h1div1{font-size:80px;color:#191970;
+#Pageheader{font-size:80px;color:#191970;
   background-image: url("source.gif");
   background-size: 1000px 800px;
   background-repeat: no-repeat;
+  box-sizing: border-box;
 }
-.blabla{
 
-}
 h3{
   color: black;
 }
 
 #div3{
-  margin-top: -200px;
+  margin-top: -250px;
+  margin-bottom: 100px;
   float: right;
   position: absolute;right:0;top:50;
 }
@@ -37,3 +37,5 @@ a:hover {
 a:active {
     color: yellow;
 }
+
+/*footer*/
